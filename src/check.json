@@ -1,0 +1,100 @@
+[{
+    "cell": "077 670 80 26",
+    "dob": {
+        "age": 51,
+        "date": "1971-12-04T05:51:57.858Z"
+    },
+    "email": "angel.petit@example.com",
+    "gender": "male",
+    "id": {
+        "name": "AVS",
+        "value": "756.4968.0782.74"
+    },
+    "location": {
+        "city": "Montpreveyres",
+        "coordinates": [Object
+        ],
+        "country": "Switzerland",
+        "postcode": 8448,
+        "state": "Aargau",
+        "street": [Object
+        ],
+        "timezone": [Object
+        ]
+    },
+    "login": {
+        "md5": "f5c1bb176951679c5ecb6f7050fbb09b",
+        "password": "united",
+        "salt": "ZBIelZqT",
+        "sha1": "be5006f168d0d819007b924ace14b312c53b4fc7",
+        "sha256": "bca9804ae40816ba1f0c7e771bcb88cf081313058accded8eb8f639d35f88022",
+        "username": "tinykoala638",
+        "uuid": "1c115905-d781-43d4-bee7-9797dc013c6b"
+    },
+    "name": {
+        "first": "Angel",
+        "last": "Petit",
+        "title": "Monsieur"
+    },
+    "nat": "CH",
+    "phone": "078 002 74 71",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/47.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    },
+    "registered": {
+        "age": 9,
+        "date": "2014-01-06T00:52:51.847Z"
+    }
+},
+{
+    "cell": "(097) V51-5183",
+    "dob": {
+        "age": 74,
+        "date": "1948-12-28T14:06:55.941Z"
+    },
+    "email": "mstibog.pritula@example.com",
+    "gender": "male",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "location": {
+        "city": "Ukrayinka",
+        "coordinates": [Object
+        ],
+        "country": "Ukraine",
+        "postcode": 41174,
+        "state": "Vinnicka",
+        "street": [Object
+        ],
+        "timezone": [Object
+        ]
+    },
+    "login": {
+        "md5": "51ea6f96a9ed6761790c1c0c796aacdb",
+        "password": "barry1",
+        "salt": "Kr10lajc",
+        "sha1": "2370af08fd1e258aea29d96e71451e2a7bcf5c77",
+        "sha256": "f9055c162c375f06c908c6d779d26a67984d3524cdf8ef1d6622e91840fe4bc0",
+        "username": "tinypanda449",
+        "uuid": "ab0d1497-f9d1-4cd4-b7e5-9bb0be0594df"
+    },
+    "name": {
+        "first": "Mstibog",
+        "last": "Pritula",
+        "title": "Mr"
+    },
+    "nat": "UA",
+    "phone": "(097) R16-8725",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/70.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    },
+    "registered": {
+        "age": 6,
+        "date": "2016-05-14T00:18:42.444Z"
+    }
+}]
